@@ -16,10 +16,10 @@ export default {
   data () {
     return {
       items: [
-        { title: 'top', path: '/' },
-        { title: 'profile', path: '/profile' },
-        { title: 'skills', path: '/skills' },
-        { title: 'outputs', path: '/outputs' }
+        { title: 'トップ', path: '/' },
+        { title: '商品紹介', path: '/profile' },
+        { title: 'お取り寄せ', path: '/skills' },
+        { title: '採用情報', path: '/outputs' }
       ]
     }
   }
